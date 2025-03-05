@@ -1,3 +1,4 @@
+# Python program for Text Editor
 import os
 
 def open_file(filename,inital_content):
