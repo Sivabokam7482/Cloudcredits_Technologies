@@ -1,2 +1,2 @@
 # Cloudcredits_Technologies
-Python Projects for My Inteenship at Cloudcredits technologies.
+Python Projects for My Internship at Cloudcredits technologies.
