@@ -2,10 +2,6 @@
 
 import requests
 
-# Your API Key: ab3047fba1788b759f5483f4
-# Example Request: https://v6.exchangerate-api.com/v6/ab3047fba1788b759f5483f4/latest/USD
-
-
 # Function to get exchange rates
 def get_exchange_rate(api_key, base_currency):
     # url = f"https://v6.exchangerate-api.com/v6/{api_key}/latest/{base_currency}"
